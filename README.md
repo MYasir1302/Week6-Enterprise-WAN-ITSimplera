@@ -3,8 +3,8 @@
 
 | | |
 |---|---|
-| **Submitted By** | [Apna Naam] |
-| **Reg No** | [Apna Reg No] |
+| **Submitted By** | Muhammad Yasir Khan |
+| **Reg No** | NETB01-4817 |
 | **Date** | 8th August, 2026 |
 | **Supervisor** | Jawad Qayum (Senior Network Administrator) |
 | **Institute** | IT-SIMPLERA Institute |
